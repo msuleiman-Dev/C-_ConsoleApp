@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil.Tests/ArrayUtil.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil.Tests/ArrayUtil.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil.Tests/ArrayUtil.Tests.csproj",
+        "projectName": "ArrayUtil.Tests",
+        "projectPath": "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil.Tests/ArrayUtil.Tests.csproj",
+        "packagesPath": "/Users/mahmoudsuleiman/.nuget/packages/",
+        "outputPath": "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mahmoudsuleiman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/ArrayUtil.csproj": {
+                "projectPath": "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/ArrayUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/ArrayUtil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/ArrayUtil.csproj",
+        "projectName": "ArrayUtil",
+        "projectPath": "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/ArrayUtil.csproj",
+        "packagesPath": "/Users/mahmoudsuleiman/.nuget/packages/",
+        "outputPath": "/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mahmoudsuleiman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

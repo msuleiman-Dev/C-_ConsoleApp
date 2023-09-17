@@ -1,0 +1,14 @@
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/bin/Debug/net7.0/ArrayUtil
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/bin/Debug/net7.0/ArrayUtil.deps.json
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/bin/Debug/net7.0/ArrayUtil.runtimeconfig.json
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/bin/Debug/net7.0/ArrayUtil.dll
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/bin/Debug/net7.0/ArrayUtil.pdb
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ArrayUtil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ArrayUtil.AssemblyInfoInputs.cache
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ArrayUtil.AssemblyInfo.cs
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ArrayUtil.csproj.CoreCompileInputs.cache
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ArrayUtil.dll
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/refint/ArrayUtil.dll
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ArrayUtil.pdb
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ArrayUtil.genruntimeconfig.cache
+/Users/mahmoudsuleiman/Documents/GitHub/C-_ConsoleApp/ArrayUtil/obj/Debug/net7.0/ref/ArrayUtil.dll
